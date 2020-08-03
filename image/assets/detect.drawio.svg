@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="641px"
+    height="136px" viewBox="-0.5 -0.5 641 136"
+    content="&lt;mxfile host=&quot;1917dfe5-a69b-4069-999b-96e8ddec4828&quot; modified=&quot;2020-08-03T13:01:47.926Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.47.3 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36&quot; etag=&quot;H6KYWOokov04HbuX_EKC&quot; version=&quot;13.1.3&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;7Zpdb5swFIZ/TW4rsDGQy5A2282kSb3YdonACVYJjsBpkv36GTDfNLEajFutVKrwCT7Yz4vNOTYLuN6fv6X+IfpBQxwvgBGeF/BxAYDjAP4/N1xKg4nAsrTsUhIKW2N4Jn+xMBrCeiQhzjoXMkpjRg5dY0CTBAesY/PTlJ66l21p3L3rwd/hgeE58OOh9RcJWVRaXeA09u+Y7KLqzqYt+rf3q4tFT7LID+mpZYJPC7hOKWXl2f68xnEOr+JS1tu88WvdsBQnTKaCUOLVj4+ib6Jd7FJ19hQRhp8PfpCXT1zQBfQito95yeSnfnYoEW/JGXOv3pbE8ZrGNC2qw9AIMOb98jKW0hfc+gXZyHS4U0+0AacMn9/sh1nT4Y8VpnvM0gu/RFSwBM9TI4dZMY7aUlRGXzwCu9pVQ4mfCFDj0KByaLbl2K4zBg2aFkRWXoMmrGXfFsc0MG3BSAxPgAZsx9BOQda6TRYn4SofwrwUxH6WkaCLFp8J+906/8PPjQckSo95F42qcBGFAWVjk//VNHE4mA96LHkT6TENcOsBGeJtAUQjACtbimOfkdfuHceoijv8pIS3pVYPGl35lj1dyoaKSu2poecH9PxYPT/MT3eYDfwUEtedllId3a/6/QrqkqvmKjC775QLgut+ppPL/pLrfrn6o2vwYppOL+dLrwn0Ujf9uQr04V4dbzUMLIIAo1aY8B/otuz6gcpkXKqQ8dFbufaXjIOgxlYmY5VjSuqY0CRPYUI/i/JAvpDxmqLeykPA+ATK3SL+8Qagaap40RVHnjAkvCF5YlEXyswCoKrc5BZFqUouZIUGRomiigc+kvjovcPWue5nQvHBbfFTekzCYpTmutxI0YW7e/Lofu+rEK+9SAFHRDSNt/WSzaRNiUUK3TzgnDwklhZ08xhbxFLGQyLp1s0DzclDIqvVzcOek4dE1qibhzMnD4ksTTcPd04eEumObh7LGXlU7/arwWcck0OGb7MYbA9MAcftwjHNETqq4MhE5jrhWP3VuDnhSESueuEAjXAkwli9cCyNcGS2y7TCsTXCkdlV0gpH54QsEe1+in1/NBYTK9v4V7OVcmuFSc0CU7ntoGuBCfVeuMB5QF0fsktMqDfHqFsZltmouWfQiKXkwQOy2UB+qP3kA/UmI3XffPBi83lTqULzkRh8+gc=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs />
+    <g>
+        <rect x="0" y="7" width="120" height="120" fill="#d0cee2" stroke="#56517e" pointer-events="all" />
+        <rect x="20" y="32" width="20" height="20" fill="#647687" stroke="#314354" pointer-events="all" />
+        <path d="M 40 42 L 153.64 46.73" fill="none" stroke="#0f0f0f" stroke-miterlimit="10" pointer-events="stroke" />
+        <path d="M 158.88 46.95 L 151.74 50.16 L 153.64 46.73 L 152.03 43.17 Z" fill="#0f0f0f" stroke="#0f0f0f"
+            stroke-miterlimit="10" pointer-events="all" />
+        <path d="M 200 87 L 273.63 87" fill="none" stroke="#0f0f0f" stroke-miterlimit="10" pointer-events="stroke" />
+        <path d="M 278.88 87 L 271.88 90.5 L 273.63 87 L 271.88 83.5 Z" fill="#0f0f0f" stroke="#0f0f0f"
+            stroke-miterlimit="10" pointer-events="all" />
+        <path d="M 200 87 L 164.5 122.5" fill="none" stroke="#0f0f0f" stroke-miterlimit="10" pointer-events="stroke" />
+        <path d="M 160.79 126.21 L 163.27 118.78 L 164.5 122.5 L 168.22 123.73 Z" fill="#0f0f0f" stroke="#0f0f0f"
+            stroke-miterlimit="10" pointer-events="all" />
+        <path d="M 200 87 L 200 13.37" fill="none" stroke="#0f0f0f" stroke-miterlimit="10" pointer-events="stroke" />
+        <path d="M 200 8.12 L 203.5 15.12 L 200 13.37 L 196.5 15.12 Z" fill="#0f0f0f" stroke="#0f0f0f"
+            stroke-miterlimit="10" pointer-events="all" />
+        <path d="M 200 87 L 245.5 41.5" fill="none" stroke="#2287ba" stroke-miterlimit="10" pointer-events="stroke" />
+        <path d="M 249.21 37.79 L 246.73 45.22 L 245.5 41.5 L 241.78 40.27 Z" fill="#2287ba" stroke="#2287ba"
+            stroke-miterlimit="10" pointer-events="all" />
+        <path d="M 200 87 L 253.96 69.01" fill="none" stroke="#2dba86" stroke-miterlimit="10" pointer-events="stroke" />
+        <path d="M 258.94 67.35 L 253.41 72.89 L 253.96 69.01 L 251.19 66.25 Z" fill="#2dba86" stroke="#2dba86"
+            stroke-miterlimit="10" pointer-events="all" />
+        <path d="M 260 67 L 250 37" fill="none" stroke="#bab520" stroke-miterlimit="10" stroke-dasharray="3 3"
+            pointer-events="stroke" />
+        <path d="M 260 57 L 324.07 31.83" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke" />
+        <path d="M 328.96 29.91 L 323.72 35.73 L 324.07 31.83 L 321.16 29.21 Z" fill="#000000" stroke="#000000"
+            stroke-miterlimit="10" pointer-events="all" />
+        <rect x="330" y="27" width="130" height="10" fill="#ffffff" stroke="#000000" pointer-events="all" />
+        <rect x="330" y="37" width="130" height="10" fill="#ffffff" stroke="#000000" pointer-events="all" />
+        <rect x="330" y="47" width="130" height="10" fill="#ffffff" stroke="#000000" pointer-events="all" />
+        <rect x="330" y="57" width="130" height="10" fill="#ffffff" stroke="#000000" pointer-events="all" />
+        <rect x="330" y="67" width="130" height="10" fill="#ffffff" stroke="#000000" pointer-events="all" />
+        <rect x="330" y="77" width="130" height="10" fill="#ffffff" stroke="#000000" pointer-events="all" />
+        <rect x="330" y="87" width="130" height="10" fill="#ffffff" stroke="#000000" pointer-events="all" />
+        <rect x="330" y="97" width="130" height="10" fill="#ffffff" stroke="#000000" pointer-events="all" />
+        <ellipse cx="345" cy="122" rx="5" ry="5" fill="#ffffff" stroke="#000000" pointer-events="all" />
+        <ellipse cx="365" cy="122" rx="5" ry="5" fill="#ffffff" stroke="#000000" pointer-events="all" />
+        <ellipse cx="385" cy="122" rx="5" ry="5" fill="#ffffff" stroke="#000000" pointer-events="all" />
+        <ellipse cx="405" cy="122" rx="5" ry="5" fill="#ffffff" stroke="#000000" pointer-events="all" />
+        <ellipse cx="425" cy="122" rx="5" ry="5" fill="#ffffff" stroke="#000000" pointer-events="all" />
+        <ellipse cx="445" cy="122" rx="5" ry="5" fill="#ffffff" stroke="#000000" pointer-events="all" />
+        <rect x="520" y="7" width="120" height="120" fill="#d0cee2" stroke="#56517e" pointer-events="all" />
+        <path d="M 460 34.5 L 533.66 41.41" fill="none" stroke="#000000" stroke-miterlimit="10"
+            pointer-events="stroke" />
+        <path d="M 538.89 41.9 L 531.59 44.73 L 533.66 41.41 L 532.24 37.76 Z" fill="#000000" stroke="#000000"
+            stroke-miterlimit="10" pointer-events="all" />
+        <rect x="540" y="32" width="20" height="20" fill="none" stroke="#ff3333" pointer-events="all" />
+    </g>
+</svg>
