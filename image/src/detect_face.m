@@ -32,9 +32,10 @@ end
 candidates = candidates(candidates(:, 3) < threshold, :);
 candidates = topkrows(candidates, k, 3, 'ascend');
 
-candidates = flip(candidates(:, 1:2), 2);
-candidates(:, 3) = blk_size(2);
-candidates(:, 4) = blk_size(1);
+candidates = flip(candidates(:, 1:2), 2); % [col_ind, row_ind]
+candidates(:, 3) = blk_size(2); % col_blk_size
+candidates(:, 4) = blk_size(1); % row_blk_size
+% remove recint==true blocks
 i = 1;
 while ( i <= size(candidates, 1))
     j = i + 1;

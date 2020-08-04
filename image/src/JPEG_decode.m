@@ -23,6 +23,7 @@ while(cnt <= blocks)
         % category 0 mag 0
         DC(1:2) = [];
     else
+        % find zero index
         zero_ind = find(DC==0, 1);
         if(zero_ind < 4)
             huffman_code = DC(1:3);

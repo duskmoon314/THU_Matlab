@@ -34,7 +34,7 @@ secret_pad = [secret, zeros(1, blocks - secret_len)];
 
 DC_coef = coef(1, :);
 AC_coef = coef(2:end, :);
-save('DCAC.mat', 'DC_coef', 'AC_coef');
+% save('DCAC.mat', 'DC_coef', 'AC_coef');
 DC_coef = [2 * DC_coef(1), DC_coef(1:end - 1)] - DC_coef;
 
 dc_block_process = @(data) DC_process(data, DCTAB);

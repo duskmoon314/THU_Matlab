@@ -11,7 +11,9 @@ max_length = numel(img);
 
 correct = 0;
 
-% parfor i = 1:100
+% commet parfor to use imshow(encode)
+
+parfor i = 1:100
     secret = randi([0, 1], 1, randi(max_length));
     len = length(secret);
     secret_pad = [secret, zeros(1, max_length - len)];
@@ -25,7 +27,7 @@ correct = 0;
     secret_decode = mod(secret_decode(1:len), 2);
 
     correct = correct + sum(secret_decode == secret) / len;
-% end
+end
 
 % disp(correct / 100);
 

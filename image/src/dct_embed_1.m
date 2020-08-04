@@ -36,7 +36,7 @@ encode = reshape(encode + secret_pad, 64, []);
 
 DC_coef = encode(1, :);
 AC_coef = encode(2:end, :);
-save('DCAC.mat', 'DC_coef', 'AC_coef');
+% save('DCAC.mat', 'DC_coef', 'AC_coef');
 DC_coef = [2 * DC_coef(1), DC_coef(1:end - 1)] - DC_coef;
 
 dc_block_process = @(data) DC_process(data, DCTAB);
